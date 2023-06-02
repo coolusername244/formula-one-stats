@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "sourceMap": true,
+    "target": "ES2015",
+    "outDir": "dist"
+  },
+  "include": ["src/**/*"]
+}
